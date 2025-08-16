@@ -30,7 +30,8 @@
   <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" style="margin:10px"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" style="margin:10px"/>
   <img src="https://skillicons.dev/icons?i=render" width="50" height="50" style="margin:10px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" width="50" height="50" style="margin:10px"/>
+  <img src="https://github.com/user-attachments/assets/a08a9fa1-b9b2-4b87-9bb3-ba80d0e4f6db" 
+ width="50" height="50" style="margin:10px"/>
   <img src="https://seeklogo.com/images/I/imagekit-io-logo-38E4F6C80E-seeklogo.com.png" width="50" height="50" style="margin:10px"/>
   <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" style="margin:10px"/> <!-- using figma icon for Framer Motion -->
 </p>

@@ -29,7 +29,8 @@
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" style="margin:10px"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" style="margin:10px"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/a08a9fa1-b9b2-4b87-9bb3-ba80d0e4f6db" width="50" height="50" style="margin:10px"/>
+   <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" style="margin:10px"/>
+ 
   <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" style="margin:10px"/> <!-- using figma icon for Framer Motion -->
 </p>
 

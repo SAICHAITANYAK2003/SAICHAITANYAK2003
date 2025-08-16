@@ -37,7 +37,7 @@
 ---
 
 ## 🏆 Achievements  
-- 🌟 Built & deployed **AI-based apps** like [Bg-Removal](https://bgremoval.webinfloo.com) & [Flo-AI](https://flo-ai.webinfloo.com)  
+- 🌟 Built & deployed **AI-based apps** like [Bg-Removal](https://bgremoval.webinfloo.com) & [Flo-AI](https://floai.webinfloo.com)  
 - 📈 **95+ Repositories** with projects in **Full Stack Development**  
 - 🎯 Consistent **open-source contributions** with 200+ commits in the past year  
 - 🥇 Developed real-world **clones & e-commerce apps** (Spotify, GreenCart, ElseAI)  

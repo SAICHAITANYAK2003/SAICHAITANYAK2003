@@ -8,12 +8,29 @@
 ---
 
 ## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
+## 🛠️ Tech Stack  
+
+<p align="left">
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+  <!-- Bootstrap -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/>
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/>
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/>
+  <!-- Express -->
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/>
+  <!-- Tailwind -->
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>
+</p>
+
 
 ---
 

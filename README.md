@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sai Chaitanya Koduri
 💻 Full Stack Developer | 🚀 Passionate about JavaScript, React, Node.js, MongoDB  
 
-🔗 [Portfolio](https://webinfloo.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:k.saichaitanya222@gmail.com)
+🔗 [Portfolio](https://webinfloo.com) | [LinkedIn](https://www.linkedin.com/in/saichaitanyakoduri) | [Email](mailto:k.saichaitanya222@gmail.com)
 
 
 ### 🚀 Tech Stack:

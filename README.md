@@ -10,15 +10,15 @@
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" style="margin:20px"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" style="margin:20px"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=render" width="50" height="50" style="margin:10px"/>
   <img src="https://github.com/user-attachments/assets/a08a9fa1-b9b2-4b87-9bb3-ba80d0e4f6db" 
  width="50" height="50" style="margin:10px"/>
-  <img src="https://seeklogo.com/images/I/imagekit-io-logo-38E4F6C80E-seeklogo.com.png" width="50" height="50" style="margin:10px"/>
+  
   <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" style="margin:10px"/> <!-- using figma icon for Framer Motion -->
 </p>
 
